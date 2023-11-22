@@ -27,8 +27,7 @@ public class Product {
 				}
 
 			}
-
-			result[i] = prod;
+            result[i] = prod;
 			prod = 1;
 		}
 		return result;
